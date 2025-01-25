@@ -49,7 +49,7 @@ body {
 
 .calculator-keys button.all-clear {
     background-color: #d32f2f;
-    color: white;
+    color: black;
 }
 
 .calculator-keys button:active {
