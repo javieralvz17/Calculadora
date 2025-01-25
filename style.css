@@ -39,7 +39,7 @@ body {
 
 .calculator-keys button.operator {
     background-color: #f9a825;
-    color: white;
+    color: red;
 }
 
 .calculator-keys button.equal-sign {
